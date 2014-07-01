@@ -1,1 +1,2 @@
-This is my firs file in a GIT supervised world.!!!
+0. This is my firs file in a GIT supervised world.!!!
+1. This is the first modification to this  file
