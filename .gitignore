@@ -1,8 +1,6 @@
-*.txt
-
-
-
-# Built application files
+# Android.gitignore
+#
+# # Built application files
 *.apk
 *.ap_
 
